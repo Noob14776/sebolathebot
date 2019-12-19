@@ -1,0 +1,25 @@
+{
+
+  "name": "Sebola, o bot",
+
+  "description": "Um simples e completo bot para o discors",
+
+  "version": "v1.15.1.b.14.12.19",
+
+  "main": "bot.js",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
